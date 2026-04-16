@@ -1,0 +1,1083 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (exit)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (__libc_init_array)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (memset)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o (initialise_monitor_handles)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o) (_exit)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o) (_kill_shared)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o) (__errno)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o) (__sinit)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o) (_fwalk_reent)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o) (_malloc_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o) (__sread)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o) (strlen)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o) (_write_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o) (_close_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o) (_fclose_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o) (__sflush_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o) (_free_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o) (_lseek_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o) (_read_r)
+c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                              c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o) (errno)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .ARM.extab     0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/boot_header.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/boot_header.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/boot_header.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/boot_header.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000      0xa72 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000       0x8e ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000       0x51 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000      0x103 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000       0x6a ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00000000      0x1df ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x1c ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000      0xa72 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x5d ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x8e ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x51 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000      0x103 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x6a ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000      0x1df ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x1c ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000      0x122 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000     0x1359 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000      0x11f ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00000000       0x27 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0xa72 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x8e ./src/main.o
+ .debug_macro   0x00000000       0x51 ./src/main.o
+ .debug_macro   0x00000000      0x103 ./src/main.o
+ .debug_macro   0x00000000       0x6a ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .debug_macro   0x00000000       0x12 ./src/main.o
+ .debug_macro   0x00000000    0x13384 ./src/main.o
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._getpid  0x00000000        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._fstat   0x00000000       0x1c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._open    0x00000000       0x12 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._link    0x00000000       0x10 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._unlink  0x00000000       0x28 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._gettimeofday
+                0x00000000       0x28 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._clock   0x00000000       0x12 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._times   0x00000000       0x16 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._isatty  0x00000000       0x38 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._system  0x00000000       0x3c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._rename  0x00000000       0x36 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .text._kill    0x00000000       0x18 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x2c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x00000000        0xc c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x78 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x00000000       0x3a c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x474 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .text.fclose   0x00000000       0x10 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .text.fflush   0x00000000       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ITCM             0x00000000         0x00010000         xrw
+PFLASH           0x00400000         0x003f4000         xr
+PFLASH_BAF       0x007f4000         0x0000c000         xr
+DFLASH           0x10000000         0x00020000         xr
+DTCM             0x20000000         0x00020000         rw
+SRAM0_STDBY      0x20400000         0x00008000         rw
+SRAM             0x20408000         0x00048000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+LOAD ./Project_Settings/Startup_Code/boot_header.o
+LOAD ./Project_Settings/Startup_Code/startup_ARMCM7.o
+LOAD ./Project_Settings/Startup_Code/system_ARMCM7.o
+LOAD ./src/main.o
+START GROUP
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a
+END GROUP
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+                0x00001000                __STACK_SIZE = 0x1000
+                0x00001000                __HEAP_SIZE = 0x1000
+
+.text           0x00400000     0x15f4
+ *(.vectors)
+ .vectors       0x00400000      0x3c0 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+                0x00400000                __Vectors
+ *(.text*)
+ .text          0x004003c0       0x88 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00400448       0xf8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+                0x00400448                _stack_init
+                0x00400454                _start
+                0x00400454                _mainCRTStartup
+ .text.Reset_Handler
+                0x00400540      0x110 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+                0x00400540                Reset_Handler
+ .text.Default_Handler
+                0x00400650        0x6 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+                0x00400650                DMATCD7_Handler
+                0x00400650                DebugMon_Handler
+                0x00400650                FlexCAN3_0_Handler
+                0x00400650                FlexCAN1_1_Handler
+                0x00400650                LPUART14_Handler
+                0x00400650                HardFault_Handler
+                0x00400650                FlexCAN0_0_Handler
+                0x00400650                DMATCD24_Handler
+                0x00400650                SIUL_2_Handler
+                0x00400650                ENET_1_Handler
+                0x00400650                PIT2_Handler
+                0x00400650                SysTick_Handler
+                0x00400650                LPUART13_Handler
+                0x00400650                INT0_Handler
+                0x00400650                DMATCD11_Handler
+                0x00400650                PendSV_Handler
+                0x00400650                NMI_Handler
+                0x00400650                SAI1_Handler
+                0x00400650                DMATCD21_Handler
+                0x00400650                LPCMP0_Handler
+                0x00400650                ENET_3_Handler
+                0x00400650                EMIOS2_5_Handler
+                0x00400650                LPI2C1_Handler
+                0x00400650                DMATCD15_Handler
+                0x00400650                QSPI_Handler
+                0x00400650                HSE_B_4_Handler
+                0x00400650                FlexCAN0_3_Handler
+                0x00400650                EMIOS0_5_Handler
+                0x00400650                CMU0_Handler
+                0x00400650                EMIOS2_4_Handler
+                0x00400650                DMATCD16_Handler
+                0x00400650                WKPU_Handler
+                0x00400650                SIUL_3_Handler
+                0x00400650                DMATCD19_Handler
+                0x00400650                LPUART4_Handler
+                0x00400650                LPUART5_Handler
+                0x00400650                LCU0_Handler
+                0x00400650                BCTU_Handler
+                0x00400650                HSE_B_1_Handler
+                0x00400650                DMATCD20_Handler
+                0x00400650                PIT1_Handler
+                0x00400650                FlexCAN2_1_Handler
+                0x00400650                FlexCAN3_1_Handler
+                0x00400650                ERM_0_Handler
+                0x00400650                EMIOS1_2_Handler
+                0x00400650                RTC_Handler
+                0x00400650                UsageFault_Handler
+                0x00400650                ADC1_Handler
+                0x00400650                DMATCD23_Handler
+                0x00400650                DMATCD26_Handler
+                0x00400650                EMIOS1_6_Handler
+                0x00400650                FLASH_1_Handler
+                0x00400650                LPUART9_Handler
+                0x00400650                HSE_B_3_Handler
+                0x00400650                LPSPI2_Handler
+                0x00400650                FCCU_0_Handler
+                0x00400650                DMATCD1_Handler
+                0x00400650                CMU1_Handler
+                0x00400650                DMATCD9_Handler
+                0x00400650                LPSPI3_Handler
+                0x00400650                HSE_B_2_Handler
+                0x00400650                LPUART8_Handler
+                0x00400650                DMATCD30_Handler
+                0x00400650                DMATCD8_Handler
+                0x00400650                DMATCD5_Handler
+                0x00400650                LPUART6_Handler
+                0x00400650                EMIOS0_2_Handler
+                0x00400650                DMATCD10_Handler
+                0x00400650                EMIOS1_7_Handler
+                0x00400650                EMIOS1_3_Handler
+                0x00400650                STM1_Handler
+                0x00400650                LPUART3_Handler
+                0x00400650                DMATCD0_Handler
+                0x00400650                FLEXIO_Handler
+                0x00400650                PIT0_Handler
+                0x00400650                DMATCD2_Handler
+                0x00400650                LPUART10_Handler
+                0x00400650                EMIOS0_3_Handler
+                0x00400650                Default_Handler
+                0x00400650                LPUART1_Handler
+                0x00400650                CMU2_Handler
+                0x00400650                INT2_Handler
+                0x00400650                EMIOS0_6_Handler
+                0x00400650                FlexCAN5_1_Handler
+                0x00400650                PMC_Handler
+                0x00400650                SWT1_Handler
+                0x00400650                FlexCAN4_0_Handler
+                0x00400650                ENET_2_Handler
+                0x00400650                LPUART15_Handler
+                0x00400650                DMATCD28_Handler
+                0x00400650                FCCU_1_Handler
+                0x00400650                EMIOS1_4_Handler
+                0x00400650                DMATCD4_Handler
+                0x00400650                DMATCD22_Handler
+                0x00400650                STM0_Handler
+                0x00400650                ADC0_Handler
+                0x00400650                MemManage_Handler
+                0x00400650                DMATCD13_Handler
+                0x00400650                DMATCD12_Handler
+                0x00400650                HSE_B_0_Handler
+                0x00400650                EMIOS1_5_Handler
+                0x00400650                LCU1_Handler
+                0x00400650                SVC_Handler
+                0x00400650                FlexCAN4_1_Handler
+                0x00400650                INT1_Handler
+                0x00400650                FLASH_0_Handler
+                0x00400650                MCM_Handler
+                0x00400650                MU_A_2_Handler
+                0x00400650                SWT0_Handler
+                0x00400650                EMIOS0_4_Handler
+                0x00400650                LPCMP1_Handler
+                0x00400650                EMIOS2_6_Handler
+                0x00400650                LPUART0_Handler
+                0x00400650                LPUART12_Handler
+                0x00400650                FlexCAN0_1_Handler
+                0x00400650                DMATCD18_Handler
+                0x00400650                MU_A_0_Handler
+                0x00400650                MU_A_1_Handler
+                0x00400650                DMATCD31_Handler
+                0x00400650                SAI0_Handler
+                0x00400650                MU_B_2_Handler
+                0x00400650                SIUL_0_Handler
+                0x00400650                MU_B_0_Handler
+                0x00400650                JDC_Handler
+                0x00400650                DMATCD27_Handler
+                0x00400650                LPUART11_Handler
+                0x00400650                FlexCAN0_2_Handler
+                0x00400650                DMATCD14_Handler
+                0x00400650                HSE_B_5_Handler
+                0x00400650                EMIOS2_7_Handler
+                0x00400650                DMATCD6_Handler
+                0x00400650                DMATCD17_Handler
+                0x00400650                LPI2C0_Handler
+                0x00400650                LPUART2_Handler
+                0x00400650                ERM_1_Handler
+                0x00400650                LPUART7_Handler
+                0x00400650                FlexCAN2_0_Handler
+                0x00400650                DMATCD29_Handler
+                0x00400650                LPSPI5_Handler
+                0x00400650                EMIOS2_3_Handler
+                0x00400650                DMATCD25_Handler
+                0x00400650                LPSPI4_Handler
+                0x00400650                LPSPI0_Handler
+                0x00400650                FlexCAN1_0_Handler
+                0x00400650                BusFault_Handler
+                0x00400650                MU_B_1_Handler
+                0x00400650                EMIOS2_2_Handler
+                0x00400650                INT3_Handler
+                0x00400650                RGM_Handler
+                0x00400650                FlexCAN2_2_Handler
+                0x00400650                FLASH_2_Handler
+                0x00400650                LPSPI1_Handler
+                0x00400650                FlexCAN5_0_Handler
+                0x00400650                ADC2_Handler
+                0x00400650                EMIOS0_7_Handler
+                0x00400650                ENET_0_Handler
+                0x00400650                FlexCAN1_2_Handler
+                0x00400650                LPCMP2_Handler
+                0x00400650                DMATCD3_Handler
+                0x00400650                SIUL_1_Handler
+ *fill*         0x00400656        0x2 
+ .text.SystemInit
+                0x00400658       0x3c ./Project_Settings/Startup_Code/system_ARMCM7.o
+                0x00400658                SystemInit
+ .text.main     0x00400694       0xe0 ./src/main.o
+                0x00400694                main
+ .text.exit     0x00400774       0x20 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+                0x00400774                exit
+ .text.__libc_init_array
+                0x00400794       0x48 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+                0x00400794                __libc_init_array
+ .text.memset   0x004007dc       0x10 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+                0x004007dc                memset
+ .text.startup.register_fini
+                0x004007ec       0x14 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00400800       0xa4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x00400800                __call_exitprocs
+ .text.__libc_fini_array
+                0x004008a4       0x28 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+                0x004008a4                __libc_fini_array
+ .text.atexit   0x004008cc        0xc c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+                0x004008cc                atexit
+ .text.__register_exitproc
+                0x004008d8       0x64 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+                0x004008d8                __register_exitproc
+ .text.findslot
+                0x0040093c       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text.error    0x00400970       0x1c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x0040098c        0xa c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._swiread
+                0x00400996       0x20 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400996                _swiread
+ .text._read    0x004009b6       0x38 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x004009b6                _read
+ .text._swilseek
+                0x004009ee       0x78 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x004009ee                _swilseek
+ .text._lseek   0x00400a66        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400a66                _lseek
+ .text._swiwrite
+                0x00400a6a       0x20 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400a6a                _swiwrite
+ .text._write   0x00400a8a       0x48 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400a8a                _write
+ .text._swiclose
+                0x00400ad2       0x1a c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400ad2                _swiclose
+ .text._close   0x00400aec       0x4c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400aec                _close
+ .text._sbrk    0x00400b38       0x48 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400b38                _sbrk
+ .text._swistat
+                0x00400b80       0x42 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400b80                _swistat
+ .text._stat    0x00400bc2       0x3a c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400bc2                _stat
+ .text._swiopen
+                0x00400bfc       0xb4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400bfc                _swiopen
+ .text._get_semihosting_exts
+                0x00400cb0       0xb8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400cb0                _get_semihosting_exts
+ .text.initialise_semihosting_exts
+                0x00400d68       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x00400d9c       0x18 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400d9c                _has_ext_exit_extended
+ .text._has_ext_stdout_stderr
+                0x00400db4       0x18 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400db4                _has_ext_stdout_stderr
+ .text.initialise_monitor_handles
+                0x00400dcc       0xc0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x00400dcc                initialise_monitor_handles
+ .text._exit    0x00400e8c       0x14 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+                0x00400e8c                _exit
+ .text._kill_shared
+                0x00400ea0       0x26 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+                0x00400ea0                _kill_shared
+ *fill*         0x00400ec6        0x2 
+ .text.__errno  0x00400ec8        0xc c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+                0x00400ec8                __errno
+ .text.std      0x00400ed4       0x48 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00400f1c        0xc c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+                0x00400f1c                _cleanup_r
+ .text.__sinit  0x00400f28       0x44 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+                0x00400f28                __sinit
+ .text._fwalk_reent
+                0x00400f6c       0x3e c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+                0x00400f6c                _fwalk_reent
+ .text.__malloc_lock
+                0x00400faa        0x2 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                0x00400faa                __malloc_lock
+ .text.__malloc_unlock
+                0x00400fac        0x2 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+                0x00400fac                __malloc_unlock
+ *fill*         0x00400fae        0x2 
+ .text._sbrk_r  0x00400fb0       0x20 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+                0x00400fb0                _sbrk_r
+ .text.__sread  0x00400fd0       0x22 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+                0x00400fd0                __sread
+ .text.__swrite
+                0x00400ff2       0x38 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+                0x00400ff2                __swrite
+ .text.__sseek  0x0040102a       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+                0x0040102a                __sseek
+ .text.__sclose
+                0x0040104e        0x8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+                0x0040104e                __sclose
+ .text          0x00401056       0x10 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+                0x00401056                strlen
+ *fill*         0x00401066        0x2 
+ .text._write_r
+                0x00401068       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+                0x00401068                _write_r
+ .text._close_r
+                0x0040108c       0x20 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+                0x0040108c                _close_r
+ .text._fclose_r
+                0x004010ac       0x74 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+                0x004010ac                _fclose_r
+ .text.__sflush_r
+                0x00401120      0x11c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+                0x00401120                __sflush_r
+ .text._malloc_trim_r
+                0x0040123c       0xa0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                0x0040123c                _malloc_trim_r
+ .text._free_r  0x004012dc      0x180 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+                0x004012dc                _free_r
+ .text._lseek_r
+                0x0040145c       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+                0x0040145c                _lseek_r
+ .text._read_r  0x00401480       0x24 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+                0x00401480                _read_r
+ *(.init)
+ .init          0x004014a4        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+                0x004014a4                _init
+ .init          0x004014a8        0x8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x004014b0        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+                0x004014b0                _fini
+ .fini          0x004014b4        0x8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.lc_config
+                0x004014bc        0x4 ./Project_Settings/Startup_Code/boot_header.o
+                0x004014bc                lc_config
+ .rodata.xrdc_config
+                0x004014c0      0x110 ./Project_Settings/Startup_Code/boot_header.o
+                0x004014c0                xrdc_config
+ .rodata._global_impure_ptr
+                0x004015d0        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                0x004015d0                _global_impure_ptr
+ .rodata._get_semihosting_exts.str1.1
+                0x004015d4       0x16 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .rodata.initialise_monitor_handles.str1.1
+                0x004015ea        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ *(.eh_frame*)
+ *fill*         0x004015ee        0x2 
+ .eh_frame      0x004015f0        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x004015f0        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+
+.glue_7         0x004015f4        0x0
+ .glue_7        0x004015f4        0x0 linker stubs
+
+.glue_7t        0x004015f4        0x0
+ .glue_7t       0x004015f4        0x0 linker stubs
+
+.vfp11_veneer   0x004015f4        0x0
+ .vfp11_veneer  0x004015f4        0x0 linker stubs
+
+.v4_bx          0x004015f4        0x0
+ .v4_bx         0x004015f4        0x0 linker stubs
+
+.iplt           0x004015f4        0x0
+ .iplt          0x004015f4        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x004015f4                __exidx_start = .
+
+.ARM.exidx      0x004015f4        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x004015f4        0x8 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+                                 0x10 (size before relaxing)
+                0x004015fc                __exidx_end = .
+
+.ecc.table      0x004015fc       0x60
+                0x004015fc                . = ALIGN (0x4)
+                0x004015fc                __ecc_table_start__ = .
+                0x004015fc        0x8 QUAD 0x20408000 __data_start__
+                0x00401604        0x8 QUAD 0x12c ((__data_end__ - __data_start__) / 0x8)
+                0x0040160c        0x8 QUAD 0x20408960 __bss_start__
+                0x00401614        0x8 QUAD 0x20 ((__bss_end__ - __bss_start__) / 0x8)
+                0x0040161c        0x8 QUAD 0x20408a60 __HeapTop
+                0x00401624        0x8 QUAD 0x200 ((__HeapLimit - __HeapTop) / 0x8)
+                0x0040162c        0x8 QUAD 0x2044f000 __StackLimit
+                0x00401634        0x8 QUAD 0x200 ((__StackTop - __StackLimit) / 0x8)
+                0x0040163c        0x8 QUAD 0x0 ORIGIN (ITCM)
+                0x00401644        0x8 QUAD 0x2000 (LENGTH (ITCM) / 0x8)
+                0x0040164c        0x8 QUAD 0x20000000 ORIGIN (DTCM)
+                0x00401654        0x8 QUAD 0x4000 (LENGTH (DTCM) / 0x8)
+                0x0040165c                __ecc_table_end__ = .
+
+.copy.table     0x0040165c        0xc
+                0x0040165c                . = ALIGN (0x4)
+                0x0040165c                __copy_table_start__ = .
+                0x0040165c        0x4 LONG 0x401668 __etext
+                0x00401660        0x4 LONG 0x20408000 __data_start__
+                0x00401664        0x4 LONG 0x258 ((__data_end__ - __data_start__) / 0x4)
+                0x00401668                __copy_table_end__ = .
+
+.zero.table     0x00401668        0x0
+                0x00401668                . = ALIGN (0x4)
+                0x00401668                __zero_table_start__ = .
+                0x00401668                __zero_table_end__ = .
+                0x00401668                __etext = ALIGN (0x8)
+
+.boot_header    0x10000000      0x100
+ *(.boot_header)
+ .boot_header   0x10000000      0x100 ./Project_Settings/Startup_Code/boot_header.o
+                0x10000000                boot_header
+
+.rel.dyn        0x10000100        0x0
+ .rel.iplt      0x10000100        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.standby_ram
+ *(.standby_ram)
+
+.data           0x20408000      0x960 load address 0x00401668
+                0x20408000                . = ALIGN (0x8)
+                0x20408000                __data_start__ = .
+ *(vtable)
+ *(.data)
+ .data          0x20408000      0x118 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+                0x20408008                __stack_base__
+ *(.data.*)
+ .data.SystemCoreClock
+                0x20408118        0x4 ./Project_Settings/Startup_Code/system_ARMCM7.o
+                0x20408118                SystemCoreClock
+ .data._impure_ptr
+                0x2040811c        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+                0x2040811c                _impure_ptr
+ .data.impure_data
+                0x20408120      0x418 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .data.__heap_limit
+                0x20408538        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+                0x20408538                __heap_limit
+ .data.supports_ext_exit_extended
+                0x2040853c        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x20408540        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .data.__malloc_av_
+                0x20408544      0x408 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20408544                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x2040894c        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x2040894c                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20408950        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20408950                __malloc_trim_threshold
+                0x20408954                . = ALIGN (0x4)
+                0x20408954                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x20408954                PROVIDE (__preinit_array_end = .)
+                0x20408954                . = ALIGN (0x4)
+                0x20408954                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x20408954        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x20408958        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x2040895c                PROVIDE (__init_array_end = .)
+                0x2040895c                . = ALIGN (0x4)
+                0x2040895c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x2040895c        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20408960                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20408960                . = ALIGN (0x8)
+                0x20408960                __data_end__ = .
+
+.tm_clone_table
+                0x20408960        0x0 load address 0x00401fc8
+ .tm_clone_table
+                0x20408960        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20408960        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x20408960        0x0 load address 0x00401fc8
+ .igot.plt      0x20408960        0x0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.bss            0x20408960      0x100 load address 0x00401fc8
+                0x20408960                . = ALIGN (0x8)
+                0x20408960                __bss_start__ = .
+ *(.bss)
+ .bss           0x20408960       0x1c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss.*)
+ .bss.heap_end.0
+                0x2040897c        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x20408980        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x20408984        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x20408988        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x2040898c       0xa0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .bss.__malloc_current_mallinfo
+                0x20408a2c       0x28 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20408a2c                __malloc_current_mallinfo
+ .bss.__malloc_top_pad
+                0x20408a54        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+                0x20408a54                __malloc_top_pad
+ .bss.errno     0x20408a58        0x4 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+                0x20408a58                errno
+ *(COMMON)
+                0x20408a60                . = ALIGN (0x8)
+ *fill*         0x20408a5c        0x4 
+                0x20408a60                __bss_end__ = .
+
+.heap           0x20408a60     0x1000
+                0x20408a60                . = ALIGN (0x8)
+                0x20408a60                __HeapTop = .
+                0x20408a60                __end__ = .
+                0x20408a60                _end = .
+                0x20408a60                PROVIDE (end = .)
+                0x20409a60                . = (. + __HEAP_SIZE)
+ *fill*         0x20408a60     0x1000 
+                0x20409a60                . = ALIGN (0x8)
+                0x20409a60                __HeapLimit = .
+
+.stack          0x2044f000     0x1000
+                0x2044f000                . = ALIGN (0x8)
+                0x2044f000                __StackLimit = .
+                0x20450000                . = (. + __STACK_SIZE)
+ *fill*         0x2044f000     0x1000 
+                0x20450000                . = ALIGN (0x8)
+                0x20450000                __StackTop = .
+                0x20450000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00400000                CM7_START_ADDRESS = ORIGIN (PFLASH)
+                0x20400000                __STDBYRAM_START = ORIGIN (SRAM0_STDBY)
+                0x00008000                __STDBYRAM_SIZE = LENGTH (SRAM0_STDBY)
+OUTPUT(s32k344_baremetal.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x1e c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x1c c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .ARM.attributes
+                0x0000006e       0x39 ./Project_Settings/Startup_Code/boot_header.o
+ .ARM.attributes
+                0x000000a7       0x34 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .ARM.attributes
+                0x000000db       0x34 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .ARM.attributes
+                0x0000010f       0x34 ./src/main.o
+ .ARM.attributes
+                0x00000143       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000177       0x32 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000001a9       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001dd       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000211       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000245       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000279       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000002ad       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000002e1       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x00000315       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x00000349       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000037d       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000003b1       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000003e5       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000419       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000044d       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000481       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000004b5       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000004e9       0x17 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000500       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000534       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000568       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000059c       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000005d0       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000604       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000638       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000066c       0x34 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000006a0       0x32 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x000006d2       0x1e c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x00000000       0x88
+ .comment       0x00000000       0x88 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+                                 0x89 (size before relaxing)
+ .comment       0x00000088       0x89 ./Project_Settings/Startup_Code/boot_header.o
+ .comment       0x00000088       0x89 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .comment       0x00000088       0x89 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .comment       0x00000088       0x89 ./src/main.o
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-exit.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-impure.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-init.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-memset.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fini.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-atexit.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-__atexit.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-syscalls.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_exit.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\librdimon.a(rdimon-_kill.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-errno.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-findfp.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fwalk.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mallocr.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-mlock.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-sbrkr.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-stdio.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-writer.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-closer.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fclose.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-fflush.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-freer.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-lseekr.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-readr.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a(lib_a-reent.o)
+ .comment       0x00000088       0x89 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/thumb/v7e-m+fp/hard/crtend.o
+
+.debug_line     0x00000000      0xec7
+ .debug_line    0x00000000       0xd9 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .debug_line    0x000000d9      0x283 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_line    0x0000035c      0x3f4 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_line    0x00000750      0x327 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_line    0x00000a77      0x450 ./src/main.o
+
+.debug_info     0x00000000     0x19fa
+ .debug_info    0x00000000       0x26 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .debug_info    0x00000026      0x2dc ./Project_Settings/Startup_Code/boot_header.o
+ .debug_info    0x00000302     0x10fd ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_info    0x000013ff      0x498 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_info    0x00001897      0x163 ./src/main.o
+
+.debug_abbrev   0x00000000      0x4bd
+ .debug_abbrev  0x00000000       0x14 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .debug_abbrev  0x00000014       0xb1 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_abbrev  0x000000c5      0x292 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_abbrev  0x00000357       0xe9 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_abbrev  0x00000440       0x7d ./src/main.o
+
+.debug_str      0x00000000    0x64bc3
+ .debug_str     0x00000000       0xb0 c:/nxp/s32ds.3.6.6/s32ds/build_tools/gcc_v10.2/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/rdimon-crt0.o
+ .debug_str     0x000000b0     0x3d31 ./Project_Settings/Startup_Code/boot_header.o
+                               0x3ea2 (size before relaxing)
+ .debug_str     0x00003de1    0x5d1af ./Project_Settings/Startup_Code/startup_ARMCM7.o
+                              0x60f16 (size before relaxing)
+ .debug_str     0x00060f90      0x1e3 ./Project_Settings/Startup_Code/system_ARMCM7.o
+                               0xc293 (size before relaxing)
+ .debug_str     0x00061173     0x3a50 ./src/main.o
+                              0x5bf2b (size before relaxing)
+
+.debug_aranges  0x00000000       0x88
+ .debug_aranges
+                0x00000000       0x18 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_aranges
+                0x00000018       0x28 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_aranges
+                0x00000040       0x28 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_aranges
+                0x00000068       0x20 ./src/main.o
+
+.debug_macro    0x00000000    0x168b4
+ .debug_macro   0x00000000       0x72 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000072      0xa72 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000ae4       0x22 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000b06       0x8e ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000b94       0x51 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000be5      0x103 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000ce8       0x6a ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000d52      0x1df ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000f31       0x12 ./Project_Settings/Startup_Code/boot_header.o
+ .debug_macro   0x00000f43       0xd9 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x0000101c       0x5d ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00001079       0x1c ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00001095       0x22 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x000010b7      0x122 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x000011d9     0x1359 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00002532      0x11f ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00002651       0x27 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00002678       0x18 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00002690    0x13384 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_macro   0x00015a14       0xc4 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_macro   0x00015ad8      0x202 ./src/main.o
+ .debug_macro   0x00015cda       0x58 ./src/main.o
+ .debug_macro   0x00015d32       0x18 ./src/main.o
+ .debug_macro   0x00015d4a       0x35 ./src/main.o
+ .debug_macro   0x00015d7f       0x34 ./src/main.o
+ .debug_macro   0x00015db3       0x16 ./src/main.o
+ .debug_macro   0x00015dc9       0x97 ./src/main.o
+ .debug_macro   0x00015e60      0x333 ./src/main.o
+ .debug_macro   0x00016193       0xfd ./src/main.o
+ .debug_macro   0x00016290       0x10 ./src/main.o
+ .debug_macro   0x000162a0       0x16 ./src/main.o
+ .debug_macro   0x000162b6       0x43 ./src/main.o
+ .debug_macro   0x000162f9       0x34 ./src/main.o
+ .debug_macro   0x0001632d       0x10 ./src/main.o
+ .debug_macro   0x0001633d       0x52 ./src/main.o
+ .debug_macro   0x0001638f      0x182 ./src/main.o
+ .debug_macro   0x00016511       0x10 ./src/main.o
+ .debug_macro   0x00016521       0x1c ./src/main.o
+ .debug_macro   0x0001653d       0x52 ./src/main.o
+ .debug_macro   0x0001658f       0x22 ./src/main.o
+ .debug_macro   0x000165b1       0x10 ./src/main.o
+ .debug_macro   0x000165c1       0x40 ./src/main.o
+ .debug_macro   0x00016601       0xd5 ./src/main.o
+ .debug_macro   0x000166d6       0x1c ./src/main.o
+ .debug_macro   0x000166f2       0x3d ./src/main.o
+ .debug_macro   0x0001672f       0x16 ./src/main.o
+ .debug_macro   0x00016745      0x16f ./src/main.o
+
+.debug_ranges   0x00000000       0x40
+ .debug_ranges  0x00000000       0x18 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_ranges  0x00000018       0x18 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_ranges  0x00000030       0x10 ./src/main.o
+
+.debug_frame    0x00000000       0xb4
+ .debug_frame   0x00000000       0x38 ./Project_Settings/Startup_Code/startup_ARMCM7.o
+ .debug_frame   0x00000038       0x50 ./Project_Settings/Startup_Code/system_ARMCM7.o
+ .debug_frame   0x00000088       0x2c ./src/main.o

@@ -1,0 +1,14 @@
+-T
+"C:/Users/emili/workspaceS32DS.3.6.6/s32k344_baremetal/Project_Settings/Linker_Files/S32K344_flash.ld"
+-Wl,-Map,"s32k344_baremetal.map"
+-Xlinker
+--gc-sections
+-n
+-mcpu=cortex-m7
+-mfloat-abi=hard
+-mfpu=fpv5-sp-d16
+-specs=rdimon.specs
+"./Project_Settings/Startup_Code/boot_header.o"
+"./Project_Settings/Startup_Code/startup_ARMCM7.o"
+"./Project_Settings/Startup_Code/system_ARMCM7.o"
+"./src/main.o"
