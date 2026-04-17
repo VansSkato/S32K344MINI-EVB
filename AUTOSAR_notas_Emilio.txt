@@ -1,0 +1,70 @@
+AUTOSAR 
+
+Leer PDf que esta en mis notas de AUTOSAR
+
+No siempre se utiliza en los ECUs
+Autosar es ORDEN
+
+OJO
+Cuando son ECUs complejos, se recomienda utilizar AUTOSAR
+Cuando son ECUs complejos, no se recomienda utilizar AUTOSAR porque es peso en la memoria, es abstracción de más
+
+Objetivos de AUTOSAR
+
+Servicial = Se emplea en todo el ciclo del producto
+Abstracción = estamos separando las capas de HARDWARE y SOFTWARE
+Configuración = Hay cosas que se autogeneran
+Calidad de Software = 
+Competencia 
+Reusabilidad = se puede utilizar en otros carros, se pueden migrar es lo bueno de AUTOSAR
+
+Capas:
+
+1. Microcontroller 
+2. Microcontroller Abstraction Layer  = Drivers(GPIOs,CAN) , Complex Drivers = Son los drives que no estan definidos por AUTOSAR
+3. ECU Abstraccion Layer , Complex Drivers, Services Layer = Sistema operativo y lo de la comunicacion 
+4. Runtime Enviroment = se encarga de hacer una conexion entre los algoritmos 
+5. Application Layer = Son algoritmos independientes del ECU
+ 
+
+Driver: Son partes especificas que controlan el HARDWARE
+
+RTE
+Se encarga de la comunicaion entre aplicaciones
+
+El RTE (Run-Time Environment) es el corazón de la comunicación en la arquitectura AUTOSAR. En términos sencillos, actúa como un middleware o "puente" universal.
+
+Aquí tienes sus funciones principales:
+
+Desacoplamiento: Separa completamente la capa de Aplicación (los componentes de software o SWCs) de la capa de Software Básico (BSW) y del hardware del microcontrolador.
+
+Enrutamiento de comunicación: Gestiona toda la transferencia de datos. Permite que los SWCs se comuniquen entre sí o con los módulos del BSW, ocultando la complejidad subyacente. Al desarrollador de la aplicación no le importa si el otro componente está en la misma ECU o en una ECU diferente conectada a través de un bus.
+
+
+Comunicacion:
+
+Virtul Fuction Bus, como seria la comuicacion
+Proximamente se convertira en RTE
+
+Electrobit = EBTresos 
+
+Protocolos que voy a utilizar
+
+MCAL: Microntoller Abstraction Lebel
+Estos son los driver que utilizaremos en la S32k344mini-EVB
+{
+1.Can
+2.Lin
+3.SPI = Memoria Eprom (se guardan calibraciones )
+4. 12C
+5.GPIOS
+6.ADC
+}
+
+Todo esto sera con EBTresos 
+
+Vamos a ver que es un protocolos de Comunicacion
+
+
+
+
